@@ -1,1 +1,1 @@
-# windows_registry
+# Windows registry editor files
