@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Настройка значков рабочего стола\command]
 @="rundll32.exe shell32.dll,Control_RunDLL desk.cpl,,0"
