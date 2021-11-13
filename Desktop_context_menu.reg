@@ -1,10 +1,10 @@
-Windows Registry Editor Version 5.00
+п»їWindows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\Настройка значков рабочего стола\command]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\РќР°СЃС‚СЂРѕР№РєР° Р·РЅР°С‡РєРѕРІ СЂР°Р±РѕС‡РµРіРѕ СЃС‚РѕР»Р°\command]
 @="rundll32.exe shell32.dll,Control_RunDLL desk.cpl,,0"
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\Свойства сервера печати\command]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\РЎРІРѕР№СЃС‚РІР° СЃРµСЂРІРµСЂР° РїРµС‡Р°С‚Рё\command]
 @="rundll32 printui.dll,PrintUIEntry /s /t2"
 
-[HKEY_CLASSES_ROOT\Directory\Background\shell\Настройка языка ввода\command]
+[HKEY_CLASSES_ROOT\Directory\Background\shell\РќР°СЃС‚СЂРѕР№РєР° СЏР·С‹РєР° РІРІРѕРґР°\command]
 @="Rundll32 Shell32.dll,Control_RunDLL input.dll,,{C07337D3-DB2C-4D0B-9A93-B722A6C106E2}"
